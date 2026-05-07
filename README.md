@@ -160,3 +160,4 @@ That means:
 For a full end-to-end explanation of how the app is built, read:
 
 - [docs/BUILD_GUIDE.md](/Users/sanyamsaluja/Documents/WorkoutTracker/docs/BUILD_GUIDE.md)
+# workout-tracker
